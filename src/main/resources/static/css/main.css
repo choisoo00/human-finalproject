@@ -1,7 +1,7 @@
 .swiper-container {
     width: 100%;
-    /* max-width: 600px; */
-    height: 600px;
+    /* max-width: 600px; ccc*/
+    height: 725px;
     position: relative;
     margin: auto;
     overflow: hidden;
@@ -36,7 +36,7 @@
     /* margin-left: 73px; */
     display: block;
     object-fit: cover; /* 이미지 비율을 유지하면서 컨테이너에 맞추기 */
-    height: 600px; /* 고정된 높이를 설정하여 비율 유지 */
+    height: 725px; /* 고정된 높이를 설정하여 비율 유지 */
 }
 
 .swiper-container .swiper-wrapper .swiper-slide .text {
